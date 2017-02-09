@@ -1,3 +1,6 @@
+#MonstrousCookiesPlus
+MonstrousCookiesPlus is a variation on "MonstrousCookies" by [James Phillips](https://github.com/JamesPhillipsUK "View Him on GitHub").  In MonstrousCookiesPlus, we intend to take his original work and adapt it into an easier setup for you.
+
 # MonstrousCookies
 A simple, customizable PHP plugin to allow websites to comply with the EU 'Cookie Law'
 
