@@ -1,11 +1,11 @@
-# MonstrousCookies
+# CookiesPlus
 A simple, customizable PHP plugin to allow websites to comply with the EU 'Cookie Law'.
 
 ## About
-MonstrousCookies is, as it says above, a plugin to help websites comply with the EU 'Cookie Law'.  Information about this change in law, and how to comply with it can be found from the Information Commissioner's Office [here](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/ "ICO Guidance on cookies").
+CookiesPlus is, as it says above, a plugin to help websites comply with the EU 'Cookie Law'.  Information about this change in law, and how to comply with it can be found from the Information Commissioner's Office [here](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/ "ICO Guidance on cookies").
 
 ## How To Use
-I'm a fan of simple instructions, so here's how to install the MonstrousCookies Plugin on your website:
+I'm a fan of simple instructions, so here's how to install the CookiesPlus Plugin on your website:
 
 1. Download all of the files from this repository into your web root folder.
 2. Open CookieNotice.php in a text editor, do a Find and replace for `http://ThisSiteName/cookies/` with the URL of your Cookie Policy, replace `mailto:webmaster@ThisSiteName` with `mailto:`followed by your email address, and replace `ThisSiteNameCookies` with the name you want to give the cookie that monitors allowing cookies on the site.
