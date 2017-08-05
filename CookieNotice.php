@@ -1,10 +1,17 @@
 <?php
 /**
- * MonstrousCookies, created by James Phillips <james@jamesphillipsuk.com> September 2016.  
- * MonstrousCookies is a PHP plugin to allow sites to comply with the EU Cookie Law by informing users of a site's cookie policy.
- * CookieNotice.php is a part of MonstrousCookies.
+ * CookiesPlus, by TuxSoft Limited <tuxsoft@tuxsoft.uk> 2017.  
+ * CookiesPlus is a PHP plugin to allow sites to comply with the EU Cookie Law by informing users of a site's cookie policy.
+ * CookieNotice.php is a part of CookiesPlus.
  * 
- * Copyright (C) 2016 James Phillips, Released under the GNU GPL v3.0 or later.
+ * Copyright (C) 2017 TuxSoft Limited, Released under the GNU GPL v3.0 or later.
+ *
+ *  - ORIGINAL COPYRIGHT NOTICE - 
+ * * MonstrousCookies, created by James Phillips <james@jamesphillipsuk.com> September 2016.  
+ * * MonstrousCookies is a PHP plugin to allow sites to comply with the EU Cookie Law by informing users of a site's cookie policy.
+ * * CookieNotice.php is a part of MonstrousCookies.
+ * * 
+ * * Copyright (C) 2016 James Phillips, Released under the GNU GPL v3.0 or later.
  * 
  * This program is free software: you can redistribute it and/or modify it under the terms of the 
  * GNU General Public License as published by the Free Software Foundation, either version 3 of the License, 
