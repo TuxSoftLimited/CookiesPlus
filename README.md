@@ -12,7 +12,7 @@ I'm a fan of simple instructions, so here's how to install the MonstrousCookies 
 3. Replace any instances of the phrase `</head>` ... `<body>` with an instance of:
 ```PHP
 <?php include('./Header.php'); ?>
-``
+```
  * Note: any pages saved as a `.htm` or `.html` to which you have done the above will beed to be renamed as a `.php`
 
 ##  The Cookie Stuff
